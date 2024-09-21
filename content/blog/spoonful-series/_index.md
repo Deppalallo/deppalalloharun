@@ -1,8 +1,8 @@
 ---
-title: A Spoonful of Hugo
+title: Materi Kelas X SMA
 description: |
-  A forking fun new feature for series.
-author: Alison Hill
+  Materi ini yang dipelajari di kelas X SMA.
+author: Harun Deppalallo
 show_post_thumbnail: false
 show_author_byline: true
 show_post_date: true
@@ -11,8 +11,8 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Spoonful of Hugo
-  author: Alison Hill
+  title: Materi Kelas X SMA
+  author: Harun Deppalallo
   description: |
     A forking fun new feature for series.
     Even this sidebar offers a ton of customizations!
@@ -26,16 +26,16 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: A Spoonful of Hugo  # name your series
-  author: Alison Hill
+  series: Materi SMA  # name your series
+  author: Harun Deppalallo
   show_author_byline: true
   show_post_date: true
   sidebar:
     text_link_label: ""
     text_link_url: ""
     show_sidebar_adunit: false # show ad container
-    text_series_label: "In this series" 
-    text_contents_label: "On this page" 
+    text_series_label: "Materi Kelas" 
+    text_contents_label: "Topik" 
   tags:
   - hugo-site
   categories:

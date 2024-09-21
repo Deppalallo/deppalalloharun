@@ -1,0 +1,135 @@
+---
+title: "Eksponen & Logaritma"
+subtitle: ""
+excerpt: "testing the excerpt field"
+date: 2024-08-08
+author: "Harun Deppalallo"
+draft: false
+images:
+series:
+tags:
+categories:
+layout: single
+---
+
+
+## A. Eksponen
+### 1. Definisi Eksponen
+
+##### Eksponen adalah pangkat suatu bilangan yang menyatakan berapa kali bilangan tersebut harus digunakan dalam perkalian. Bilangan eksponen adalah bilangan yang berbentuk $a^n$ menyatakan hasil kali bilangan $a$ sebanyak $n$ faktor. $a$ adalah bilangan real dan  $b$ adalah bilangan bulat positif.
+
+##### Contoh :
+
+$8^2=8 \times 8 = 64$
+
+$3^3=3 \times 3 \times 3=27$
+
+### 2. Sifat-sifat Exponen
+#### * $\space a^m \times a^n =a^{m+n}$
+##### Contoh :
+
+$$4^2 \times 4^3 = 4^{2+3} = 4^5$$
+
+$$2^3 \times 2^7 = 2^{3+7} = 2^{10}$$
+
+---
+#### * $\space \frac{a^m}{a^n} = a^{m-n}$ 
+##### Contoh :
+
+$$\frac{2^8}{2^5} = 2^{8-5}=2^3$$
+
+$$\frac{2^{10}}{2^5} = 2^{10-5}=2^5$$
+
+---
+#### * $\space {(a^m)^n=a^{m \times n}}$
+##### Contoh :
+
+$$(2^3)^3=(2)^{3 \times 3}=2^9$$
+
+$$(2^2)^4=(2)^{2 \times 4}=2^8$$
+
+---
+#### * $\space (ab)^m=a^m \times b^m$
+##### Pembuktian :
+$$\color{gray} \begin{align*}
+  (ab)^m &= \underbrace {ab \times ab \times \dots \times ab}_{m\text{ times}}\\\
+  (ab)^m &= \underbrace {a \times a \times \dots \times a}_m \times \underbrace {b \times b \times \dots \times b}_m\\\
+  (ab)^m &= a^m \times b^m
+\end{align*}$$
+##### Contoh :
+$$(2 \times 3)^3=2^3 \times 3^3$$
+$$(3 \times 4)^4=3^4 \times 4^4$$
+
+----
+#### * $\space \left (\frac{a}{b} \right)^m=\frac{a^m}{b^m}$
+##### Pembuktian :
+##### Dengan $b \ne 0$ dan $m$ bilangan bulat
+$$\color{gray} \begin{align*}
+  \left (\frac{a}{b} \right)^m &= \underbrace {\frac{a}{b} \times \frac{a}{b} \times \dots \times \frac{a}{b}}_{m\text{ times}}\\\
+  \left (\frac{a}{b} \right)^m &= \frac{\underbrace {a \times a \times \dots \times a}_m} {\underbrace {b \times b \times \dots \times b}_m} \longrightarrow \left (\frac{a}{b} \right)^m = \frac{a^m}{b^m}
+\end{align*}$$
+##### Contoh :
+$$\left (\frac{2}{3} \right)^2=\frac{2^2}{3^2}$$
+$$\left (\frac{3}{4} \right)^4=\frac{3^4}{4^4}$$
+
+---
+#### * $\space \left (a^{\frac{m}{n}} \right) \left (a^{\frac{p}{n}} \right)=(a)^{\frac{m}{n}+\frac{p}{n}}=(a)^{\frac{m+p}{n}}$
+##### Dengan $a >0$, $\frac{m}{n}$, $\frac{p}{n}$ bilangan rasional dengan $n \ne 0$
+
+---
+#### * $\left (a^{\frac{m}{n}} \right) \left (a^{\frac{p}{q}} \right)=(a)^{\frac{m}{n}+\frac{p}{q}}=(a)^{\frac{m}{n}+ \frac{p}{q}}$
+##### Dengan $a >0$, $\frac{m}{n}$, $\frac{p}{n}$ bilangan rasional dengan $n$, $q \ne 0$
+
+### 3 Fungsi Eksponen
+##### Jika $a =1$, maka $f(x)=n \times 1^x=n$, maka fungsi tidaklagi menjadi fungsi eksponensial melainkan fungsi konstanta $f(x)=n$, dengan$n$ adalah bilangan real. Hal ini terjadi karena jika $a=1$, maka 1 dipangkatkan berapa pun akan tetap bernilai 1, sehigga fungsi akan berubah menjadi fungsi konstan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

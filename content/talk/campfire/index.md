@@ -1,29 +1,22 @@
 ---
-title: "A campfire"
-subtitle: "Testing"
+title: "Harun Deppalallo"
+subtitle: "Add subtitle here!"
 excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
-date_end: "2021-01-13"
+date: 2024-09-20
+date_end: "2024-09-21"
 featured: true
 show_post_time: false
-event: "rstudio::global(2021)"
-event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+event: "event_name"
+event_url: ""
+author: "Harun Deppalallo"
+location: "Samarinda, Indonesia"
 draft: false
 # layout options: single, single-sidebar
-layout: single
-categories:
-- workshop
 links:
 - icon: door-open
   icon_pack: fas
   name: website
   url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+There is no text in here yet!.

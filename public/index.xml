@@ -1,61 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Harun Deppalallo</title>
+    <title>WELCOME! on Harun Deppalallo</title>
     <link>//localhost:4321/</link>
-    <description>Recent content on Harun Deppalallo</description>
+    <description>Recent content in WELCOME! on Harun Deppalallo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 14:15:59 -0600</lastBuildDate>
     <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Netlify</title>
-      <link>//localhost:4321/collection/day02/01-netlify/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day02/01-netlify/</guid>
-      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.&#xA;Pre-requisites Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+      <title>Matematika Kelas x</title>
+      <link>//localhost:4321/blog/spoonful-series/01-tujuan/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/spoonful-series/01-tujuan/</guid>
+      <description>BAB 1 Eksponen dan Logaritma A. Eksponen 1. Definisi Eksponen 2. Sifat-sifat Eksponen 3. Fungsi Eksponen 4. Bentuk Akar B. Logaritma BAB 2 Barisan dan Deret BAB 3 Vektor dan Operasinya BAB 4 Trigonometri BAB 5 Sistem Persamaan dan Pertidaksamaan Linear BAB 6 Fungsi Kuadrat BAB 7 Statistika BAB 8 Peluang Tujuan Pembelajaran Exponen dan logaritma adalah sebagai berikut 1 Menyatakan perkalian bilangan bulat berulang sebagai bilangan berpangkat (eksponen) 2.</description>
     </item>
     <item>
-      <title>A first post</title>
-      <link>//localhost:4321/blog/spoonful-series/01-spoonful/</link>
+      <title>Latuhanku</title>
+      <link>//localhost:4321/blog/latihan-1/01-spoonful/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/spoonful-series/01-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\spoonful-series\01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.&#xA;beginning middle end </description>
+      <guid>//localhost:4321/blog/latihan-1/01-spoonful/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\Latihan 1\01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.&#xA;beginning middle end </description>
     </item>
     <item>
-      <title>A GitHub profile</title>
-      <link>//localhost:4321/collection/day01/01-github/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day01/01-github/</guid>
-      <description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile&#xA;Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile&#xA;Profile README This is new! Let&amp;rsquo;s do it:&#xA;https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
-    </item>
-    <item>
-      <title>Prework</title>
-      <link>//localhost:4321/collection/prework/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/prework/</guid>
-      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.&#xA;Set up RStudio Cloud Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.</description>
-    </item>
-    <item>
-      <title>A postcard</title>
-      <link>//localhost:4321/collection/day01/02-postcards/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day01/02-postcards/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:&#xA;install.packages(&amp;#34;postcards&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;postcards&amp;#34;) [1] ‘0.2.0’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-postcard.git&amp;#34;) &amp;#x2728; Commit &amp;amp; Push! &amp;#x2728;</description>
-    </item>
-    <item>
-      <title>A second post</title>
+      <title>BAB 1 Eksponen dan Logaritma</title>
       <link>//localhost:4321/blog/spoonful-series/02-spoonful/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/spoonful-series/02-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\spoonful-series\02-spoonful\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
+      <description>By Harun Deppalallo&#xA;A. Exponen 1. Definisi Eksponen Eksponen adalah pangkat suatu bilangan yang menyatakan berapa kali bilangan tersebut harus digunakan dalam perkalian. $$\begin{align*} &amp;amp;\text{Bilangan eksponen adalah bilangan yang berbentuk } a^n \text{ menyatakan hasil kali bilangan } a\\ &amp;amp; \text{sebanyak } n \text{ faktor. } a \text{ adalah bilangan real dan } b \text{ adalah bilangan bulat positif} \end{align*}$$&#xA;Contoh : $$8^2=8 \times 8 = 64$$ $$3^3=3 \times 3 \times 3=27$$</description>
     </item>
     <item>
-      <title>Using blogdown</title>
-      <link>//localhost:4321/collection/day02/02-blogdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day02/02-blogdown/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the blogdown package installed from CRAN:&#xA;install.packages(&amp;#34;blogdoown&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;blogdown&amp;#34;) [1] ‘1.0’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-blogdown.git&amp;#34;) &amp;#x2728; Commit &amp;amp; Push! &amp;#x2728;</description>
+      <title>latihanku 2</title>
+      <link>//localhost:4321/blog/latihan-1/02-spoonful/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/latihan-1/02-spoonful/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\Latihan 1\02-spoonful\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/latihan-1/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     <item>
       <title>A third post</title>
@@ -65,18 +44,39 @@
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\spoonful-series\03-spoonful\index.markdown Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
     </item>
     <item>
-      <title>A distill site</title>
-      <link>//localhost:4321/collection/day01/03-distill/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day01/03-distill/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:&#xA;install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;distill&amp;#34;) # [1] ‘1.2’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) &amp;#x2728; Commit &amp;amp; Push!</description>
+      <title>A third post</title>
+      <link>//localhost:4321/blog/spoonful-series/04-spoonful/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/spoonful-series/04-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\spoonful-series\04-spoonful\index.markdown Here is my R Markdown source file: blog\spoonful-series\04-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/04-spoonful/featured-photo.</description>
     </item>
     <item>
-      <title>Warm woolen mittens</title>
-      <link>//localhost:4321/collection/day02/03-blogdown/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/collection/day02/03-blogdown/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection\day02\03-blogdown\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+      <title>A seedling</title>
+      <link>//localhost:4321/talk/second-seedling/</link>
+      <pubDate>Fri, 20 Sep 2024 14:15:59 -0600</pubDate>
+      <guid>//localhost:4321/talk/second-seedling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A seedling</title>
+      <link>//localhost:4321/talk/seedling/</link>
+      <pubDate>Fri, 20 Sep 2024 14:15:59 -0600</pubDate>
+      <guid>//localhost:4321/talk/seedling/</guid>
+      <description>There is no text in here!</description>
+    </item>
+    <item>
+      <title>Harun Deppalallo</title>
+      <link>//localhost:4321/talk/campfire/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/talk/campfire/</guid>
+      <description>There is no text in here yet!.</description>
+    </item>
+    <item>
+      <title>Eksponen &amp; Logaritma</title>
+      <link>//localhost:4321/project/rmarkdown/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/rmarkdown/</guid>
+      <description>A. Eksponen 1. Definisi Eksponen Eksponen adalah pangkat suatu bilangan yang menyatakan berapa kali bilangan tersebut harus digunakan dalam perkalian. Bilangan eksponen adalah bilangan yang berbentuk \(a^n\) menyatakan hasil kali bilangan \(a\) sebanyak \(n\) faktor. \(a\) adalah bilangan real dan \(b\) adalah bilangan bulat positif. Contoh : \(8^2=8 \times 8 = 64\)&#xA;\(3^3=3 \times 3 \times 3=27\)&#xA;2. Sifat-sifat Exponen * \(\space a^m \times a^n =a^{m+n}\) Contoh : $$4^2 \times 4^3 = 4^{2+3} = 4^5$$</description>
     </item>
     <item>
       <title>Set up your social</title>
@@ -107,13 +107,6 @@
       <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.&#xA;Rmarkdown In .Rmarkdown documents, you can use either&#xA;$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.&#xA;And you can use&#xA;$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:&#xA;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
     </item>
     <item>
-      <title>A campfire</title>
-      <link>//localhost:4321/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    <item>
       <title>Using panelsets</title>
       <link>//localhost:4321/blog/seedling/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
@@ -121,25 +114,11 @@
       <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
     </item>
     <item>
-      <title>A seedling</title>
-      <link>//localhost:4321/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>//localhost:4321/talk/second-seedling/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>An Rmarkdown post</title>
       <link>//localhost:4321/blog/rmarkdown/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/rmarkdown/</guid>
       <description> Air quality with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
-    </item>
-    <item>
-      <title>A seedling</title>
-      <link>//localhost:4321/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      <guid>//localhost:4321/talk/seedling/</guid>
-      <description></description>
     </item>
     <item>
       <title>Tachyons for Style</title>
@@ -153,7 +132,7 @@
       <link>//localhost:4321/blog/css-grid-scaffold/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Overview $$\frac{1}{2}$$&#xA;Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
     </item>
     <item>
       <title>Palmer Penguins</title>
@@ -195,7 +174,14 @@
       <link>//localhost:4321/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/about/header/</guid>
-      <description>Saya membuat website ini untuk pembelajaran Matematika.&#xA;The page you are reading is based on a markdown file- look in content/about/ to edit. There, look inside the header, main, and sidebar folders to get started building your own &amp;ldquo;about&amp;rdquo; page.</description>
+      <description>&#xD;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:4321/about/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/about/main/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
       <title></title>
@@ -217,13 +203,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
-    </item>
-    <item>
-      <title>Why apéro?</title>
-      <link>//localhost:4321/about/main/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/main/</guid>
-      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
   </channel>
 </rss>
